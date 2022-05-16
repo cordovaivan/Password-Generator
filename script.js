@@ -10,11 +10,17 @@ function generatePassword(){
   });
   var numericCharacters = ["0","1","2","3","4","5","6","7","8","9"];
 
-  prompt("Would you like to include special characters?", "yes");
-  prompt("Would you like to include numeric characters?", "yes");
-  prompt("Would you like to include lowercase characters?", "yes");
-  prompt("Would you like to include uppercasse characters?", "yes");
-  prompt("How many characters would you like in your password between 8 & 128?");
+  //prompt("Would you like to include special characters?", "yes");
+  //prompt("Would you like to include numeric characters?", "yes");
+  //prompt("Would you like to include lowercase characters?", "yes");
+  //prompt("Would you like to include uppercasse characters?", "yes");
+  //prompt("How many characters would you like in your password between 8 & 128?");
+
+  var includelowercasecharacter = prompt("Would you like to include lowercase characters?", "yes");
+  var includespecialcharacters = prompt("Would you like to include special characters?", "yes");
+  var includeuppercasecharacters = prompt("Would you like to include uppercasse characters?", "yes");
+  var includenumericcharacters = prompt("Would you like to include numeric characters?", "yes");
+  var passwordlength = prompt("How many characters would you like in your password between 8 & 128?");
 
   
 
