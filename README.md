@@ -18,3 +18,4 @@ To view this project you can follow the following link [Password-Generator](http
 * Added a return value of shuffled so it shuffles and randomizes the generated password.
 
 ### What the page looks like 
+![Deployed webpage](image.png)
