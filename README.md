@@ -18,4 +18,8 @@ To view this project you can follow the following link [Password-Generator](http
 * Added a return value of shuffled so it shuffles and randomizes the generated password.
 
 ### What the page looks like 
-![Deployed webpage](c:/Users/Ivan/bootcamp/challenges/Password-Generator/Screenshot%20(11).png)
+![Deployed webpage](https://github.com/cordovaivan/Password-Generator/blob/main/Screenshot%20(11).png)
+
+#### How to View Project and make Changes
+* Clone Repo into folder that you will open in vs code
+* Once Cloned, Open vs code and open folder where clone would be located
